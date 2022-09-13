@@ -1,0 +1,4 @@
+3|superintendent|관리자, 감독관
+1|apple|사과
+1|kiwi|키위
+1| banana|바나나
