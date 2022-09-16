@@ -6,3 +6,5 @@
 <img src="screenshot/screenshot4.png">
 <img src="screenshot/screenshot5.png">
 <img src="screenshot/screenshot6.png">
+<img src="screenshot/screenshot6.5.png">
+<img src="screenshot/screenshot7.png">
