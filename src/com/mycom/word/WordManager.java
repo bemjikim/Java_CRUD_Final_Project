@@ -42,7 +42,7 @@ public class WordManager {
 			
 			else if(menu == 1)
 			{
-				wordCRUD.listAll()
+				wordCRUD.listAll();
 			}
 			
 			else if(menu == 2)
